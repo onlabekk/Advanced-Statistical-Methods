@@ -1,1 +1,1 @@
-# Advanced-Statistical-Methods
+# Advanced Statistical Methods
